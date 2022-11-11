@@ -1,1 +1,1 @@
-const e="/assets/excel.b8970c32.svg";export{e as default};
+const e=""+new URL("excel.b8970c32.svg",import.meta.url).href;export{e as default};
